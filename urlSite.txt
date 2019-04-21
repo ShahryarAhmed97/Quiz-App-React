@@ -1,0 +1,2 @@
+Project Console: https://console.firebase.google.com/project/quiz-app-react-shary/overview
+Hosting URL: https://quiz-app-react-shary.firebaseapp.com
